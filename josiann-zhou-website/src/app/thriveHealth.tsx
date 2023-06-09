@@ -1,9 +1,9 @@
 import Link from 'next/link';
 
-export default function invokeMedia() {
+export default function thriveHealth() {
   return (
     <>
-      <h1>Invoke Media - Incrowd</h1>
+      <h1>Position at thrive</h1>
       <h2>
         <Link href="/">Back to home</Link>
       </h2>

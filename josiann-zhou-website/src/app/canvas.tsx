@@ -1,9 +1,9 @@
 import Link from 'next/link';
 
-export default function invokeMedia() {
+export default function canvas() {
   return (
     <>
-      <h1>Invoke Media - Incrowd</h1>
+      <h1>canvas</h1>
       <h2>
         <Link href="/">Back to home</Link>
       </h2>
